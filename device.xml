@@ -5,6 +5,6 @@
   <project path="kernel/xiaomi/cannon" name="Xiaomi-A001XM/android_kernel_xiaomi_cannon" remote="github" revision="sc-v2" />
   <project path="vendor/xiaomi/cannon" name="Xiaomi-A001XM/android_vendor_xiaomi_cannon" remote="github" revision="sc-v2" />
 
-  <project path="vendor/nxp/opensource/sn100x/halimpl" name="LineageOS/android_vendor_nxp_opensource_halimpl" revision="lineage-19.1-sn100x" />
-  <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="LineageOS/android_vendor_nxp_opensource_hidlimpl" revision="lineage-19.1-sn100x" />
+  <project path="vendor/nxp/opensource/sn100x/halimpl" name="LineageOS/android_vendor_nxp_opensource_halimpl" remote="github" revision="lineage-19.1-sn100x" />
+  <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="LineageOS/android_vendor_nxp_opensource_hidlimpl" remote="github" revision="lineage-19.1-sn100x" />
 </manifest>
